@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * ["Technical Agile Coaching" book](https://leanpub.com/techagilecoach)
+
+### To master, continue with
+
 * ["The Coding Dojo Handbook" book](https://www.goodreads.com/book/show/17925612-the-coding-dojo-handbook)
 * ["Agile Technical Practices Distilled" book](https://www.goodreads.com/book/show/41758433-agile-technical-practices-distilled?ac=1&from_search=true&qid=ojUQeZhn57&rank=1)
 * [Coaching Technical Practices](https://www.infoq.com/articles/coaching-technical-practices/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
